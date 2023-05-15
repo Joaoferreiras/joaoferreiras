@@ -8,6 +8,3 @@ Eu sou o João Ferreira sou um programador  Front End, atualmente estou aprenden
 <br>
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoferreiras)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoferreiras)](https://github.com/anuraghazra/github-readme-stats)
